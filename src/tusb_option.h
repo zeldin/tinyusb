@@ -94,6 +94,9 @@
 // ValentyUSB eptri
 #define OPT_MCU_VALENTYUSB_EPTRI  600 ///< Fomu eptri config
 
+// ValentyUSB simplehost
+#define OPT_MCU_VALENTYUSB_SIMPLEHOST  610
+
 // NXP iMX RT
 #define OPT_MCU_MIMXRT10XX        700 ///< NXP iMX RT10xx
 

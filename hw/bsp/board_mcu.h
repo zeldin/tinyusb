@@ -104,6 +104,9 @@
 #elif CFG_TUSB_MCU == OPT_MCU_VALENTYUSB_EPTRI
   // no header needed
 
+#elif CFG_TUSB_MCU == OPT_MCU_VALENTYUSB_SIMPLEHOST
+  // no header needed
+
 #elif CFG_TUSB_MCU == OPT_MCU_MIMXRT10XX
   #include "fsl_device_registers.h"
 
